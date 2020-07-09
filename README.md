@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 <p align="center">
-  <img src="./avatar_colors.png">
+  <img src="https://raw.githubusercontent.com/alexZajac/alexZajac/master/avatar_colors.png">
   <br><br>
   <samp>
       I got bitten by a Python while trying to Type Scripts. Luckily I Reacted well. ⚛️
