@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**alexZajac/alexZajac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="./avatar.png">
+  <br><br>
+  <samp>
+      I got bitten by a Python while trying to Type Scripts. Luckily I Reacted well. ⚛️
+      <br><br>
+      I'm Alex, and I am currently trying to change the way we look at Fashion as an SDE Intern at Amazon. 👕
+      <br>
+      In late 2020 I'll be starting my last year in a Masters Degree in Data Science with <a href="https://www.polytechnique.edu/en">l'école Polytechnique. ⚔️</a> 
+      <br>
+      I have studied Computer Science for more than 3 years with <a href="https://www.esilv.fr/en/">the ESILV school</a>, in a dual degree in Management and Marketing with <a href="https://www.emlv.fr/en/">the EMLV school. 💼</a>
+      <br>
+    I had the chance to study at <a href="https://www.ucr.edu/">UC Riverside</a> next to Los Angeles, and can't wait to go back! ☀️
+      <br><br>
+      You can always shoot me an email at <a href="mailto:dev@alexandrezajac.com">dev@alexandrezajac.com</a>, connect with me on <a href="https://www.linkedin.com/in/alexandre-zajac/">Linkedin</a>, or stay where you are and access my <a href="https://github.com/alexZajac?tab=repositories">GitHub projects.</a>
+      <br><br>
+    <q>Actions speak lourder than words</q> - Babe Ruth.
+  </samp>
+</p>
