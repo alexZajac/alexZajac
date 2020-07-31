@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hi there 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alexZajac/alexZajac/master/avatar_colors.png">
