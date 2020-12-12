@@ -16,6 +16,6 @@
       <br><br>
       You can always shoot me an email at <a href="mailto:dev@alexandrezajac.com">dev@alexandrezajac.com</a>, connect with me on <a href="https://www.linkedin.com/in/alexandre-zajac/">Linkedin</a>, or stay where you are and access my <a href="https://github.com/alexZajac?tab=repositories">GitHub projects.</a>
       <br><br>
-    <q>Actions speak louder than words</q> - Babe Ruth.
+    <q>Do what you love and love what you do</q> - Stave Jobs.
   </samp>
 </p>
