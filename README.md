@@ -6,7 +6,7 @@
   <samp>
       I got bitten by a Python while trying to Type Scripts. Luckily I Reacted well. ⚛️
       <br><br>
-      I'm Alex, and I am currently trying to change the way we look at Fashion as an SDE Intern at Amazon. 👕
+      I am Alex, and I am currently trying to change the way we look at Fashion as an SDE Intern at Amazon. 👕
       <br>
       I am finishing studies from a Masters Degree in Data Science and AI with <a href="https://www.polytechnique.edu/en">l'école Polytechnique. ⚔️</a> 
       <br>
