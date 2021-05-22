@@ -8,9 +8,9 @@
       <br><br>
       I'm Alex, and I am currently trying to change the way we look at Fashion as an SDE Intern at Amazon. 👕
       <br>
-      In late 2020 I'll be starting my last year in a Masters Degree in Data Science with <a href="https://www.polytechnique.edu/en">l'école Polytechnique. ⚔️</a> 
+      I am finishing studies from a Masters Degree in Data Science and AI with <a href="https://www.polytechnique.edu/en">l'école Polytechnique. ⚔️</a> 
       <br>
-      I have studied Computer Science for more than 3 years with <a href="https://www.esilv.fr/en/">the ESILV school</a>, in a dual degree in Management and Marketing with <a href="https://www.emlv.fr/en/">the EMLV school. 💼</a>
+      I also studied Computer Science for more than 3 years with <a href="https://www.esilv.fr/en/">the ESILV school</a>, in a dual degree in Management and Marketing with <a href="https://www.emlv.fr/en/">the EMLV school. 💼</a>
       <br>
     I had the chance to study at <a href="https://www.ucr.edu/">UC Riverside</a> next to Los Angeles, and can't wait to go back! ☀️
       <br><br>
