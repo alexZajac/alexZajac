@@ -6,9 +6,9 @@
   <samp>
       I got bitten by a Python while trying to Type Scripts. Luckily I Reacted well. ⚛️
       <br><br>
-      I am Alex, and I am currently trying to change the way we look at Fashion as an SDE at Amazon. 👕
+      I am Alex, and I am currently working in core Search Experience as an SDE at Amazon. 👕
       <br>
-      I am finishing studies from a Masters Degree in Data Science and AI with <a href="https://www.polytechnique.edu/en">l'école Polytechnique. ⚔️</a> 
+      I finished studies from a Masters Degree in Data Science and AI with <a href="https://www.polytechnique.edu/en">l'école Polytechnique. ⚔️</a> 
       <br>
       I also studied Computer Science for more than 3 years with <a href="https://www.esilv.fr/en/">the ESILV school</a>, in a dual degree in Management and Marketing with <a href="https://www.emlv.fr/en/">the EMLV school. 💼</a>
       <br>
